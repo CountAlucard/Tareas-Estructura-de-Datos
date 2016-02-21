@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+c:\users\fernando\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\consoleapplication1.cpp(29): warning C4715: 'buscar': not all control paths return a value
+ConsoleApplication1.obj : error LNK2001: unresolved external symbol "class nodo * grafo" (?grafo@@3PAVnodo@@A)
+C:\Users\Fernando\documents\visual studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.exe : fatal error LNK1120: 1 unresolved externals

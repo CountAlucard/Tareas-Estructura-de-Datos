@@ -30,6 +30,8 @@ int main()
 	std::cout <<"Popped out: " <<test->data << std::endl;
 	std::cout << "Actualmente hay: " << countElements() << " elementos en el stack." << std::endl;
 	printElements();
+
+	std::cout << "\nPULGA GIMME THE OCTOPUSSEYYYY" << std::endl;
 	
 
     return 0;
